@@ -10,7 +10,8 @@
 1. 需要 Grand Theft Auto V（GTAV）
 2. 需要 Script Hook V [http://www.dev-c.com/gtav/scripthookv/](http://www.dev-c.com/gtav/scripthookv/)
 3. 需要 Script Hook V .NET [https://github.com/crosire/scripthookvdotnet/releases](https://github.com/scripthookvdotnet/scripthookvdotnet-nightly/releases)
-4. 飞智八爪鱼4手柄
+4. 需要飞智空间站 v3.4.8.0 版本及以上 https://www.flydigi.com/index/down?nav_id=2
+5. 飞智八爪鱼4手柄
 
 ### 放置文件：
 ### 将下载的所有文件放入GTA V的scripts文件夹：
