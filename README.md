@@ -8,8 +8,8 @@
 ## 安装步骤
 ### 前置条件
 1. 需要 Grand Theft Auto V（GTAV）
-2. 需要 Script Hook V http://www.dev-c.com/gtav/scripthookv/
-3. 需要 Script Hook V .NET https://github.com/crosire/scripthookvdotnet/releases
+2. 需要 Script Hook V [http://www.dev-c.com/gtav/scripthookv/](http://www.dev-c.com/gtav/scripthookv/)
+3. 需要 Script Hook V .NET [https://github.com/crosire/scripthookvdotnet/releases](https://github.com/scripthookvdotnet/scripthookvdotnet-nightly/releases)
 4. 飞智八爪鱼4手柄
 
 ### 放置文件：
